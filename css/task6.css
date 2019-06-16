@@ -1,0 +1,40 @@
+    body {
+        background-image: url("../images/interface-3614766_1280.png");
+        background-size: cover;
+        text-align: center;
+        text-decoration-line: none;
+        margin-top: 390px;
+        margin-left: 650px;
+    }
+    
+    h1 {
+        font-family: arial;
+        font-size: 40px;
+        margin-top: 50px
+    }
+    
+    h2 {
+        font-family: arial;
+        font-size: 55px;
+        color: white
+    }
+    
+    a {
+        text-decoration-line: none;
+        padding: 10px 30px;
+        color: white;
+        border-radius: 5px;
+    }
+    
+    #demo {
+        background-color: #3AAEE7;
+        font-family: arial;
+        Font-size: 20px
+    }
+    
+    #puschase {
+        background-color: #81C784;
+        font-family: arial;
+        Font-size: 20px;
+        margin-left: 10px
+    }

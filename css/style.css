@@ -1,0 +1,222 @@
+    /*Tapshiriq1*/
+    
+    #black {
+        width: 150px;
+        border: 2px solid black;
+        padding: 10px;
+        font-family: sans-serif;
+        text-decoration-line: none;
+        text-align: center;
+    }
+    
+    body {
+        margin-top: 20px;
+    }
+    
+    #yellow {
+        width: 150px;
+        border: 2px solid goldenrod;
+        padding: 10px;
+        margin-left: 20px;
+        font-family: sans-serif;
+        text-align: center;
+        text-decoration: none;
+    }
+    
+    #red {
+        width: 150px;
+        border: 2px solid rgb(194, 1, 1);
+        padding: 10px;
+        margin-left: 20px;
+        font-family: sans-serif;
+        text-align: center;
+        text-decoration: none;
+    }
+    
+    #blue {
+        width: 150px;
+        border: 2px solid rgb(0, 217, 255);
+        padding: 10px;
+        margin-left: 20px;
+        font-family: sans-serif;
+        text-decoration-line: none;
+        text-align: center
+    }
+    /*Tapshiriq2*/
+    
+    #greyb {
+        width: 150px;
+        padding: 8px;
+        background-color: grey;
+        font-family: arial;
+        text-align: center;
+        text-decoration-line: none;
+        color: white;
+    }
+    
+    #yellowb {
+        width: 150px;
+        padding: 8px;
+        background-color: yellow;
+        color: black;
+        text-decoration-line: none;
+        font-family: arial;
+        margin-left: 20px;
+    }
+    
+    #redb {
+        widows: 150px;
+        padding: 8px;
+        background-color: rgb(252, 71, 71);
+        color: white;
+        text-decoration-line: none;
+        font-family: arial;
+        margin-left: 20px;
+    }
+    
+    #greyb2 {
+        width: 150px;
+        padding: 8px;
+        background-color: rgb(216, 216, 216);
+        color: black;
+        text-decoration-line: none;
+        font-family: arial;
+        margin-left: 20px;
+    }
+    
+    #blueb {
+        width: 150px;
+        padding: 8px;
+        background-color: rgb(42, 205, 255);
+        color: white;
+        text-decoration-line: none;
+        font-family: arial;
+        margin-left: 20px;
+    }
+    /*Tapshiriq3*/
+    
+    .Button {
+        background-color: black;
+        font-family: arial;
+        text-decoration-line: none;
+        color: white;
+        width: 15px;
+        border-radius: 2px solid black
+    }
+    
+    #Button1 {
+        border-radius: 10px 10px 10px 0;
+        padding: 5px;
+    }
+    
+    #Button2 {
+        padding: 5px;
+        border-radius: 10px 10px 0 10px;
+    }
+    
+    #Button3 {
+        padding: 5px;
+        border-radius: 10px 0 10px 10px;
+    }
+    
+    #Button4 {
+        padding: 5px;
+        border-radius: 0px 10px 10px 10px;
+    }
+    
+    #Button5 {
+        padding: 5px;
+        border-radius: 10px 10px 0 0;
+    }
+    
+    #Button6 {
+        padding: 5px;
+        border-radius: 0 0 10px 10px
+    }
+    
+    #Button7 {
+        padding: 5px;
+        border-radius: 10px 0 0 10px
+    }
+    
+    #Button8 {
+        padding: 5px;
+        border-radius: 0 10px 10px 0
+    }
+    /*Tapshiriq4*/
+    
+    .button4 {
+        padding: 5px;
+        color: white;
+        text-decoration-line: none;
+        font-family: arial
+    }
+    
+    #Button4-1 {
+        border: 2px solid rgb(184, 0, 0);
+        background-color: rgb(184, 0, 0);
+        border-radius: 5px;
+    }
+    
+    #Button4-2 {
+        border: 2px solid rgb(0, 81, 255);
+        background-color: rgb(0, 81, 255);
+        border-radius: 10px
+    }
+    
+    #Button4-3 {
+        border: 2px solid green;
+        background-color: green;
+        border-radius: 15px
+    }
+    
+    #Button4-4 {
+        border: 2px solid rgb(255, 94, 0);
+        background-color: rgb(255, 94, 0);
+        border-radius: 20px
+    }
+    /*Tapshiriq5*/
+    
+    .button5 {
+        border: 1px solid rgb(62, 135, 214);
+        background-color: rgb(62, 135, 214);
+        color: white;
+        text-decoration-line: none;
+        font-family: arial
+    }
+    
+    #minibutton {
+        border-radius: 5px;
+        font-size: 12px;
+        padding: 3px
+    }
+    
+    #defaultbutton {
+        border-radius: 5px;
+        padding: 5px;
+        font-size: 15px
+    }
+    
+    #largebutton {
+        padding: 12px 7px;
+        border-radius: 8px;
+        font-size: 10;
+    }
+    
+    #minirounded {
+        padding: 5px 8px;
+        border-radius: 10px;
+        font-size: 8px
+    }
+    
+    #defaultrounded {
+        padding: 8px 14px;
+        border-radius: 15px;
+        font-size: 12px;
+    }
+    
+    #largerounded {
+        padding: 11px 17px;
+        border-radius: 20px;
+        font-size: 16px;
+    }
